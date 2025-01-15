@@ -11,3 +11,5 @@ We are passionate about better use of resources, from the product to the societa
 For more than 30 years (and long before the term was widely known) we have worked with the circular economy. 
 
 We are among Europe’s leading research communities in LCA.
+
+[Read more about our research here.](https://norsus.no/en/forskning/)
