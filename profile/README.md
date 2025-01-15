@@ -1,3 +1,5 @@
+## Knowledge for a sustainable future
+
 NORSUS apply and develop knowledge and methods to understand and implement sustainable solutions in society. 
 
 We work with many of Norway’s most innovative and future-oriented enterprises in a number of areas and develop new methods that match the needs of our project partners.
