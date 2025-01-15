@@ -12,4 +12,4 @@ For more than 30 years (and long before the term was widely known) we have worke
 
 We are among Europe’s leading research communities in LCA.
 
-[Read more about our research here.](https://norsus.no/en/forskning/)
+[Read more about our research here](https://norsus.no/en/forskning/)
